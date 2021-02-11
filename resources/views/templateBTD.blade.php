@@ -5,6 +5,8 @@
     <title>BTD Ingénierie</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="BTD est une entreprise s'occupant des chantiers concernants le traitement des eaux">
+    <meta name="keywords" content="BTD, Ingénierie, eau, usée, station, épuration, chantiers, environnement, chantier, OTEAUX, assainissement, BTP, Climatisation, Nantes, France, Cameroun, Plomberie, Electricité, Négoce, Transport">
 
 
     <link href="https://fonts.googleapis.com/css?family=Oswald:300,400,700|Muli:300,400" rel="stylesheet">

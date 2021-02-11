@@ -39,7 +39,7 @@ class BTDController extends Controller
     {
         try {
             $data= array('Email' => $_POST['Votre_E-mail'],'Objet'=>$_POST['Objet'], 'Sujet' => $_POST['Sujet']);
-            Mail::to('fransosichereplays@gmail.com')->send(new Reserved($data));
+            Mail::to('pbiron.btdingenierie@gmail.com')->send(new Reserved($data));
 
 
             return redirect('/');
@@ -120,7 +120,7 @@ class BTDController extends Controller
             return redirect('/');
         } else {
             $data = DB::table('blog')->where('ID', $id)->get();
-            return view('BlogBTDedit', compact('data'));
+            return view('blogBTDedit', compact('data'));
         }
     }
 

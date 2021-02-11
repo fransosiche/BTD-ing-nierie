@@ -44,10 +44,12 @@
         <div class="container">
             <div class="row mb-5 justify-content-center text-center">
                 <div class="col-lg-5">
-                    <h3 class="section-subtitle">Notre raison d'être</h3>
-                    <h2 class="section-title mb-4 text-black">Etre un acteur dynamique <strong> dynamique</strong> et
-                        <strong> référant</strong> de la protection de la ressource « Eau » en France et à
-                        l’international. </h2>
+                    <h3 class="section-subtitle">Mot de bienvenue</h3>
+		    <h2 class="section-title mb-4 text-black">Les équipes BTD conçoivent et concrétisent des solutions qui répondent
+			aux besoins réels industriels agro-limentaire grâce à la complémentarité de ses activités.
+
+			BTD apporte son expérience, son expertise pour l'harmonisation entre les milieux naturels et l'environnement des hommes.
+                      </h2>
                 </div>
             </div>
             <div class="row no-gutters">
